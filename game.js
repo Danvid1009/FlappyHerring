@@ -5,7 +5,7 @@ const scoreElement = document.getElementById('score');
 // Game constants
 const GRAVITY = 0.25;
 const FLAP_STRENGTH = -7;
-const PIPE_SPEED = 3;
+const PIPE_SPEED = 2;
 const PIPE_GAP = 150;
 const PIPE_WIDTH = 50;
 const MAX_ROTATION = 25;
